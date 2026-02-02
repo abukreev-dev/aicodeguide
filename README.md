@@ -4,6 +4,7 @@
     By <a href="https://x.com/aut0mata">Vilson Vieira</a> and
        <a href="https://x.com/esrtweet">Eric S. Raymond</a>
   </p>
+</div>
 <br/>
 
 > Everything you wanted to know about using AI to help you code and/or to code
